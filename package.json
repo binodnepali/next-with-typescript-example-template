@@ -11,7 +11,8 @@
     "postinstall": "husky install"
   },
   "lint-staged": {
-    "**/*": "prettier --write --ignore-unknown"
+    "**/*.{tsx,ts}": "prettier --write",
+    "**/*.{css,scss}": "stylelint"
   },
   "dependencies": {
     "next": "12.1.2",
