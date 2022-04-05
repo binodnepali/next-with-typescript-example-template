@@ -7,12 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "lint:style": "stylelint '**/*.{css,scss}'",
-    "postinstall": "husky install"
+    "lint:style": "stylelint '**/*.{css,scss}'"
   },
   "lint-staged": {
     "**/*.{tsx,ts}": "prettier --write",
-    "**/*.{css,scss}": "stylelint"
+    "**/*.{css,scss}": "stylelint --fix"
   },
   "dependencies": {
     "next": "12.1.2",
