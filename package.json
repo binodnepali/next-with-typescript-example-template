@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "lint:style": "stylelint '**/*.{css,scss}'"
+    "lint:style": "stylelint '**/*.{css,scss}'",
+    "prepare": "husky install"
   },
   "dependencies": {
     "next": "12.1.2",
