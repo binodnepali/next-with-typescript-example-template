@@ -6,12 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint --fix",
+    "lint": "next lint",
     "lint:style": "stylelint '**/*.{css,scss}'"
-  },
-  "lint-staged": {
-    "**/*.{tsx,ts}": "prettier --write",
-    "**/*.{css,scss}": "stylelint --fix"
   },
   "dependencies": {
     "next": "12.1.2",

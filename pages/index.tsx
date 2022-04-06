@@ -3,8 +3,6 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.scss'
 
-const hello121111 = 200
-
 const Home: NextPage = () => {
   return (
     <div className={styles.container}>
