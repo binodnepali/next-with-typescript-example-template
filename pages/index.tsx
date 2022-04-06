@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.scss'
 
-const hello12 = 200
+const hello121111 = 200
 
 const Home: NextPage = () => {
   return (
