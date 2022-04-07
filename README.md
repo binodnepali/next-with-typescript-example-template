@@ -14,7 +14,7 @@ Make sure you have installed [Node.js 12.22.0 or higher](https://nodejs.org/en/)
 
 You can setup this project using npm or yarn package managers.
 
-> I would recommend to installed or enabled yarn package manager on your machine.
+> I would recommend to installed or enabled [yarn](https://yarnpkg.com/getting-started) package manager on your machine.
 
 ### Clone repo
 
