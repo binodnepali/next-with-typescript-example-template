@@ -6,8 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "lint:style": "stylelint '**/*.{css,scss}'",
     "prepare": "husky install"
   },
   "dependencies": {
