@@ -66,6 +66,16 @@ npm run start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+### Run release
+
+Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/) in your repository. And when you're ready to release, run below scripts.
+
+```bash
+yarn release
+#or
+npm run release
+```
+
 ## Learn More
 
 To learn more about Next.js, ESLint, Prettier, StyleLint and lint-staged, take a look at the following resources:

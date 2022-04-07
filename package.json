@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "release": "standard-version",
     "prepare": "husky install"
   },
   "dependencies": {
@@ -24,6 +25,7 @@
     "lint-staged": "^12.3.7",
     "prettier": "2.6.2",
     "sass": "^1.49.11",
+    "standard-version": "^9.3.2",
     "stylelint": "^14.6.1",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-prettier-scss": "^0.0.1",
