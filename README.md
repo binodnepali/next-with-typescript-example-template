@@ -87,3 +87,4 @@ To learn more about Next.js, ESLint, Prettier, StyleLint and lint-staged, take a
 * [ESLint Setup](https://eslint.org/docs/user-guide/getting-started) - Learn about how to ESLint
 * [StyleLint Setup](https://stylelint.io/user-guide/get-started) - Learn about how to setup StyleLint
 * [Lint Staged Setup](https://github.com/okonet/lint-staged) - Learn about how to setup lint-staged
+* [Standard Version](https://github.com/conventional-changelog/standard-version) - Learn about how to setup standar version
