@@ -3,6 +3,7 @@
     "stylelint-config-standard-scss",
     "stylelint-config-prettier-scss",
     "stylelint-config-standard",
-    "stylelint-config-prettier"
+    "stylelint-config-prettier",
+    "stylelint-config-rational-order"
   ]
 }
