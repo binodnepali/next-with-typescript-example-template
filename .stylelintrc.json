@@ -4,6 +4,7 @@
     "stylelint-config-prettier-scss",
     "stylelint-config-standard",
     "stylelint-config-prettier",
+    "stylelint-config-recommended-scss",
     "stylelint-config-rational-order"
   ]
 }
