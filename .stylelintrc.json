@@ -3,8 +3,7 @@
     "stylelint-config-standard-scss",
     "stylelint-config-prettier-scss",
     "stylelint-config-standard",
-    "stylelint-config-prettier",
-    "stylelint-config-rational-order"
+    "stylelint-config-prettier"
   ],
   "plugins": ["stylelint-order", "stylelint-config-rational-order/plugin"],
   "rules": {
@@ -12,8 +11,8 @@
     "plugin/rational-order": [
       true,
       {
-        "border-in-box-model": false,
-        "empty-line-between-groups": false
+        "border-in-box-model": true,
+        "empty-line-between-groups": true
       }
     ]
   }
