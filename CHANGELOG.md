@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/binodnepali/nextjs-with-typescript-example-template/compare/v0.1.0...v0.1.1) (2022-04-20)
+
+
+### Features
+
+* add stylelint config rational order ([17b7fd4](https://github.com/binodnepali/nextjs-with-typescript-example-template/commit/17b7fd485adf00fc53227156613a9d7db39ad3c7))
+
+
+### Bug Fixes
+
+* add node version restriction in package.json ([a753645](https://github.com/binodnepali/nextjs-with-typescript-example-template/commit/a7536459971bd758851e155aa0d0fc687248ae36))
+
 ## 0.1.0 (2022-04-07)
 
 
