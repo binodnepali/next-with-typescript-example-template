@@ -1,5 +1,7 @@
 # Next.js with typescript example template
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 An example template made using [Next.js and Typescript](https://nextjs.org/docs) to start a new project. The template is setup with [Prettier](https://prettier.io/docs/en/install.html), [ESLint](https://eslint.org/docs/user-guide/getting-started), [StyleLint](https://stylelint.io/user-guide/get-started) and [Lint Staged](https://github.com/okonet/lint-staged).
 
 This template use next.js version 12.3.1. Read more about [release](https://github.com/vercel/next.js/releases/tag/v12.3.1)
@@ -67,6 +69,18 @@ npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### Commit
+
+Open interactive terminal to write conventional commit message
+
+```bash
+# yarn
+yarn commit
+
+# npm
+npm run commit
+```
 
 ### Run release
 
