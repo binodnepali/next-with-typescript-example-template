@@ -1,6 +1,8 @@
-# Next.js With Typescript Example Template
+# Next.js with typescript example template
 
 An example template made using [Next.js and Typescript](https://nextjs.org/docs) to start a new project. The template is setup with [Prettier](https://prettier.io/docs/en/install.html), [ESLint](https://eslint.org/docs/user-guide/getting-started), [StyleLint](https://stylelint.io/user-guide/get-started) and [Lint Staged](https://github.com/okonet/lint-staged).
+
+This template use next.js version 12.3.1. Read more about [release](https://github.com/vercel/next.js/releases/tag/v12.3.1)
 
 ## Why this template
 
